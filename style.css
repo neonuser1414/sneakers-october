@@ -357,6 +357,6 @@ footer .nav-link {
 	.page-body__info__body__specifications {
 		display: flex;
     	flex-direction: column;
-		gap: 24px;
+		/* gap: 24px; */
 	}
 }
